@@ -11,9 +11,10 @@ h1 {
  }
 
 nav {
-	background-color:#03a9f4;
+	background-color: #03a9f4;
 	color: #9c27b0;
 }
+
 aside {
 	display: none;
 }

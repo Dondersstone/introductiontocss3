@@ -4,6 +4,9 @@ header {
 
 h1, h2 {
 	font-variant: small-caps;
-	font-color: #48d4a4;
+	color: #48d4a4;
 }
 
+aside {
+	display: none;
+}

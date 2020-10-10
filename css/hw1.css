@@ -4,12 +4,16 @@ header {
 
 h1, h2 {
 	font-variant: small-caps;
-	color: #48d4a4;
 }
 
 h1 { 
+	color: #f9ecec;
 	text-align: center;
  }
+
+h2{
+	color: blue;
+}
 
 nav {
 	background-color: #03a9f4;

@@ -20,6 +20,10 @@ a {
 	color: #a127b0;
 }
 
+section {
+	background-color: #bbc1bf;
+}
+
 aside {
 	display: none;
 }

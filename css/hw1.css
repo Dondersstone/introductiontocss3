@@ -1,17 +1,24 @@
 header {
 	background-image: url(../images/flywheel.jpg);
 	background-color: #08a92f;
-	height: 250px;
+	height: 110px;
 	}
 
 h1, h2 {
-	text-transform: uppercase;
+	text-transform: uppercase;      
 }
 
 h1 {
-	color: #def5ed;
+	color: #ffffff;
 	text-align: center;
  }
+
+nav a {
+	background-color: #ffffff;
+	display: inline-block;
+	text-decoration: none;
+	border-radius: 25px;
+}
 
 h2 {
 	color: #6e00ff;

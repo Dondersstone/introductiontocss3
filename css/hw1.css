@@ -18,6 +18,8 @@ nav a {
 	display: inline-block;
 	text-decoration: none;
 	border-radius: 25px;
+	width: 20%;
+	height: 5px;
 }
 
 h2 {

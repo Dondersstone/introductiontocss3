@@ -16,14 +16,15 @@ h1 {
 nav a {
 	opacity: 0.5;
 	display: inline-block;
+	display: table-cell;
+	color: #000000;
 	text-decoration: none;
 	text-align: center;
-	vertical-align: middle;
 	border-radius: 10px;
-	width: 15%;
+	width: 200px;
 	height: 30px;
-	padding:5px;
-	margin: 55px;
+	padding:10px;
+	margin: 50px;
 }
 
 h2 {

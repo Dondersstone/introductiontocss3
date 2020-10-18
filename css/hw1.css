@@ -18,7 +18,7 @@ nav a {
 	display: inline-block;
 	text-decoration: none;
 	text-align: center;
-	vertical-align: center;
+	vertical-align: middle;
 	border-radius: 10px;
 	width: 20%;
 	height: 30px;

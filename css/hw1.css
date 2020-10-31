@@ -67,3 +67,81 @@ h2 {
     font-size: 30px;
 }
 
+table {
+    width: 75%;
+    margin: 0 auto;
+    line-height: 20px;
+}
+
+td { 
+    border: solid #ffffff;
+    border-width: 1px;
+    background-color: #6ed06e;
+    border-radius: 2px;
+    padding: 2px;
+    font-family: candara;
+    font-size: 15px;
+    text-shadow: 5px 5px 5px green;
+}
+
+th {
+    background: #d2ff00;
+    background: -moz-linear-gradient(left, #d2ff00 0%, #18ff00 50%, #008000 100%);
+    background: -webkit-linear-gradient(#d2ff00 0%, #18ff00 50%, #008000 100%);
+    background: -o-linear-gradient(#d2ff00 0%, #18ff00 50%, #008000 100%);
+    background: linear-gradient(to right, #d2ff00 0%, #18ff00 50%, #008000 100%); 
+}
+
+th { 
+    border: solid #ffffff;
+    border-width: 1px 1px 5px 1px;
+    border-radius: 5px 5px 0px 0px;
+    font-family: corbel;
+    font-size: 20px;
+}
+
+th {
+    background: #d2ff00;
+    background: -moz-linear-gradient(left, #d2ff00 0%, #18ff00 50%, #008000 100%);
+    background: -webkit-linear-gradient(#d2ff00 0%, #18ff00 50%, #008000 100%);
+    background: -o-linear-gradient(#d2ff00 0%, #18ff00 50%, #008000 100%);
+    background: linear-gradient(to right, #d2ff00 0%, #18ff00 50%, #008000 100%); 
+}
+
+th::first-letter {
+    font-size: 22px;
+    font-family: magneto;
+}
+
+th:first-child {
+    text-align: left;
+}
+
+th:nth-child(2),
+th:nth-child(3) {
+    text-align: center;
+}
+
+tr {
+    font-family: "comic sans ms";
+    font-size: 15px;
+    opacity: 0.8;
+}
+
+tr:hover {
+    opacity: 1;
+}
+
+td:nth-child(1n+0) {
+    text-align: left;
+}
+
+td:nth-child(2n+0),
+td:nth-child(3n+0) {
+    text-align: center;
+}
+
+
+
+
+
